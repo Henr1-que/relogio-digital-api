@@ -43,6 +43,3 @@ Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais info
 Feito com ❤️ por Henrique Borelli
 
 
-### 💡 Dicas para customizar:
-* **Imagens:** Se puder, tire um print da tela do seu relógio e salve na pasta do projeto (ex: `assets/screenshot.png`). Depois, você pode linkar no README trocando a linha do `[Image of...]` por `<img src="assets/screenshot.png" alt="Relógio Digital" width="100%">`.
-* **Emojis:** Sinta-se livre para mudar os emojis se quiser dar uma personalidade diferente ao seu perfil!
